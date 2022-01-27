@@ -789,4 +789,7 @@
     .menu-btn.active{
         top: 35px;
     }
+    .header__btn{
+        font-size: 11px;
+    }
 }
